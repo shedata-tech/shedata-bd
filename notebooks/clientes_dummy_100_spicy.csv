@@ -1,0 +1,101 @@
+id_cliente,nombre,apellido,direccion,ubicacion,codigo_postal,salario_usd,fecha_ingreso,activo,correo,telefono,observaciones
+0001,Camilo,Chávez,Carrera 26 # 53-79,"Mosquera, Cundinamarca",255532,7961.25,2023-11-24,No,camilo.chávez@ejemplo.co,3795220445,Sin novedades
+0002,	Dámaris,Gómez,Calle 123 # 73-24,"Bucaramanga, Santander",721361,"7.682,75",2025-02-16,SI,dámaris.gómez@ejemplo.co,3486089707,Cliente nuevo
+0003,Zoé,Vélez,Diagonal 33 # 30-14,"Quibdó, Chocó",303924,"6665,75",2026-01-24,no,zoé.vélez@ejemplo.co,3381646027,Revisión pendiente
+0004,Juan José,Castañeda,Avenida	70 # 42-80,"Popayán, Cauca",452526,"3,048.99",2022-11-27,TRUE,juan.josé.castañeda@ejemplo.co,3993116032,Prefiere atención telefónica
+0005,Andrés,Gutiérrez,Transversal 83 # 17-56,"Popayán, Cauca",406063,7656.00,2023-11-11,False,andrés.gutiérrez@ejemplo.co,3006057695,Pago al día
+0006,Luz Dary,Rodríguez ,Carrera 128 # 52-77,"Mosquera, Cundinamarca",101510,"6.078,15",2026-10-09,1,luz.dary.rodríguez@ejemplo.co,3274846457,Dirección por verificar
+0007,Íñigo,Quiñones,Carrera 83 # 94-48,"Mosquera, Cundinamarca",106917,"1129,75",10/09/2025,0,íñigo.quiñones@ejemplo.co,3497887503,Cumpleaños en año bisiesto
+0008,Ana María,Niño,Avenida 77 # 39-93,"Montería, Córdoba",205172,"3,030.75",2023-11-11,Sí,ana.maría.niño@ejemplo.co,3930196325,Revisar​datos; Pregunta: ¿incluye IVA?
+0009,María,Quiñones,Avenida 119 # 32-24,"Medellín, Antioquia",541686,3816.25,2024-08-09,No,maria.quinones@ejemplo.co,3467194249,Atención rápida ¡gracias!
+0010,René,Caicedo,Avenida 116 # 18-52,"Cúcuta, Norte de Santander",909513,"5.882,50",2026-03-12,SI,rené.caicedo@ejemplo.co,+57 329 477 7466,"Comentario con coma, punto y coma; y comillas ""VIP"""
+0011,Camilo,López,"Diagonal 73 # 25-40, Apto 447","Quibdó, Chocó",828065,"2681,15",2023-10-19,no,camilo.lópez@ejemplo.co,3838612413,Ubicación: zona rural / vía secundaria
+0012,Lucía,Gutiérrez,Transversal 90 # 14-86,"Barranquilla, Atlántico",803393,"2,350.15",2022-10-02,TRUE,lucía.gutiérrez@ejemplo.co,3141707075,Sin novedades
+0013,René,Caicedo,Carrera 40 # 80-17,"Quibdó, Chocó",954819, 6378.25 ,2024-07-25,False,rené.caicedo@ejemplo .co,3376304298,Cliente nuevo
+0014,Sofía,Álvarez,Transversal 47 # 74-20,"Tunja, Boyacá",328315,"4.962,99",10/12/2025,1,sofía.álvarez@ejemplo.co,3145580333,
+0015,Bárbara,Rincón,Calle 36 # 34-64,"Sincelejo, Sucre	",361121,"1055,75",2023-09-13,0,bárbara.rincón@ejempl o.co,3538373058,Prefiere atención telefónica
+0016,María,Flórez,Carrera 84 # 3-86,"Tunja, Boyacá",865806,"7,483.00",2023-07-07,Sí,maría.flórez@ejemplo.co,3674789267,Pago al día
+0017,Camilo,Rincón,Avenida 40 # 79-13,"Cali, Valle del Cauca",999169,,2025-11-05,No,camilo.rincón@ejemplo.co,3137839833,Dirección por verificar
+0018,María,Suárez,Transversal 60 # 4-27,"Armenia, Quindío",2﻿39875,"2.796,15",2022-07-22,SI,maria.suarez@ejemplo.co,3623627221,Cumpleaños en año bisiesto
+0019,Luz Dary,Flórez,  Calle 122 # 83-24  ,"Bogotá, Cundinamarca",929598,"6815,00",2023-02-26,no,luz.dary.flórez@ejemplo.co,3431767629,Pregunta: ¿incluye IVA?
+0020,Jo sé,Bermúdez,Diagonal 116 # 8-27,"Funza, Cundinamarca",709602,"7,325.75",2022-06-28,,josé.bermúdez@ejemplo.co,+57 397 700 7622,Atención rápida ¡gracias!
+0021,Mónica,Cárdenas,Calle 15 # 57-86,"Quibdó, Chocó",640620,8095 .99,,False,mónica.cárdenas@ejemplo.co,3477177531,"Comentario con coma, punto y coma; y comillas ""VIP"""
+0022,	Tomás,Muñoz,"Carrera 71 # 32-76, Apto 413","Cúcuta, Norte de Santander",778959,"2.432,99",2023-03-14,1,tomás.muñoz@ejemplo.co,3356787452,Ubicación: zona rural / vía secundaria
+0023,Bárbara,Álvarez,Avenida 60 # 51-48,"﻿Manizales, Caldas",900763,N/D,2022-08-11,0,bárbara.álvarez@ejemplo.co,3739575050,Sin novedades
+0024,Álvaro,García,Calle 56 # 64-16,"Villavicencio, Meta",162918 ,"5,479.25",2026-05-22,Sí,álvaro.garcía@ejemplo.co,3728271768,Cliente	nuevo
+0025,Ángela,Peña,Calle 47 # 2-21,"San Andrés, San Andrés y Providencia",640891,8041.15,2025-11-24,No,ángela.peña@ejemplo.co,3042959588,  Revisión pendiente  
+0026,Julián,Muñoz,Carrera 94 # 67-43,"Villavicencio, Meta",651185," 8.220,25 ",2024-02-02,SI,sin_correo,3319856458,Prefiere atención telefónica
+0027,Dámaris,Bermúdez	,Avenida 109 # 26-36,"Barranquilla, Atlántico",759464,"5920,15",2023-05-25,no,damaris.bermudez@ejemplo.co,3687630185,Pago al día
+0028,César,García,Transversal 47 # 18-49,"Sincelejo, Sucre",224902,"2,345.75",02/07/2025,TRUE,césar.garcía@ejemplo.co,3957496202,
+0029,Noé,Flórez,Transversal 82 # 87-33,"Sincelejo, Sucre",400206,"USD 6,421.15",2026-02-26,False,noé.flórez@ejemplo.co,3007320877,Cumpleaños en año bisiesto
+0030,Yuliana,Flórez,Carrera 66 # 42-72,"Tunja, Boyacá",683104,"2.569,15",2023-02-02,1,yuliana.flórez@ejemplo.co,+57 328 205 8627,Pregunta: ¿incluye IVA?
+0031,Íñigo,Fernández,Transversal 65 # 25-21,"Bucaramanga, Santander",610371,-2991.15,2024-01-15,0,íñigo.fernández@ejemplo.co,3437134170,Atención rápida ¡gracias!
+0032,Míriam,Bermúdez,Diagonal 65 # 63-99,"Quibdó, Chocó",363059,"5,632.99",2023-12-21,Sí,míriam.bermúdez@ejemplo.co,3465435450,"Comentario con coma, punto ﻿y coma; y comillas ""VIP"""
+0033,Sofía,López	,"Transversal 104 # 31-08, Apto 926","Pasto, Nariño",874753,1512.00,2023-11-04,No,,3658239260,Ubicación: zona rural / vía secundaria
+0034,Íñigo,Cárdenas,Calle 90 # 56-70,"Medellín, Antioquia",505646,,31/02/2025,SI,íñigo.cárdenas@ejemplo.co,3541698330,Sin novedades
+0035,Tomás,Núñez,Carrera 5 # 22-26,"Mosquera, Cundin⁠amarca",541785,"2450,99",04/12/2025,no,tomás.núñez@ejemplo.co,3574391383,Cliente nuevo
+0036,Álvaro ,Castañeda,Carrera 73 # 19-09,"Cartagena, Bolívar",770563,"7,425.50",2023-04-02,TRUE,alvaro.castaneda@ejemplo.co,3765479450,	Revisión pendiente
+0037,Mónica,Chávez,Avenida 62 # 94-42,"San Andrés, San Andrés y Providencia",897770,2027.99,2022-07-19,False,mónica.chávez@ejemplo.co,3133291201,Prefiere atención telefónica
+0038,Lucía,Fernández,  Transversal 63 # 10-06  ,"Funza, Cundinamarca",447020,"2.718,99",2026-10-28,1,lucía.fernández@ejemplo.co,3027816715,Pago al día
+0039,	Nicolás,Rodríguez,Diagonal 42 # 55-76,"Barranquilla, Atlántico",022456," 6021,50 ",2024-01-24,0,nicolás.rodríguez@ejemplo.co,3644636507,Dirección por verificar
+0040,Ángela,Quiñones,Avenida 116 # 88-23,"Pereira, Risaralda",598121,"2,940.99",2023-12-08,,ángela.quiñones@ejemplo.co,+57 391 650 3487,Cumpleaños en año bisiesto
+0041,Úrsula,Núñez,Calle 97 # 95-10,"Bogotá,	Cundinamarca",769137,5443.75,2022-07-28,No,úrsula.núñez@ejemplo.co,3289476236,Pregunta: ¿incluye IVA?
+0042,Juan José,Díaz	,Avenida 9 # 69-18,"San Andrés, San Andrés y Providencia",348140,"6.793,5 0",,SI,juan.josé.díaz@ejemplo.co,3832163811,
+0043,Édgar,Niño,Diagonal 76 # 46-25,"Quibdó, Chocó",591388,"3187,25",2022-10-13,no,édgar.niño@ejemplo.co,3223527387,"Comentario con coma, punto y coma; y comillas ""VIP"""
+0044,Zoé,Quiñones,"Diagonal 112 # 31-11, Apto 1035","Quibdó, Chocó",853227,"1,107.75",2025-03-24,TRUE,zoé.quiñones@ejemplo.co,3600236886,Ubicación: zona rural / vía secundaria
+0045,Valentina,Pérez	,Transversal 69 # 11-52,"Pereira, Risaralda",009853,2215.99,2025-04-12,False,valentina.perez@ejemplo.co,3554070240,Sin novedades
+0046,Dámaris,Suárez,Transversal 18 # 16-42,"Pereira, Risaralda	",225106,N/D,2023-11-01,1,dámaris.suárez@ejemplo.co,3182816008,Cliente nuevo
+0047,Noé,Fernández,Carrera 17 # 4-70,"Funza, Cundinamarca",711285,"5108,15",2023-02-21,0,noé.fernández@ejemplo.co,3418795019,Revisión pendiente
+0048,René﻿,Ríos,Diagonal 78 # 95-09,"Quibdó, Chocó",323634,"	2,539.50",2025-05-10,Sí,rené.ríos@ejemplo.co,3463645617,Prefiere atención telefónica
+0049,Germán,Pérez,Carrera	68 # 62-60,"Pasto, Nariño",220511,1954.25,02/03/2025,No,germán.pérez@ejemplo.co,3184063444,Pago  al día
+0050,Óscar,	Caicedo,Carrera 93 # 75-98,"Cartagena, Bolívar",615117,"3.251,99",2023-07-04,SI,óscar.caicedo@ejemplo.co,+57 340 780 8292,  Dirección por verificar  
+0051,Nicolás,Cárdenas,Ca⁠rrera 59 # 7-33,"Tunja, Boyacá",395841,,2024-09-01,no,nicolás.cárdenas@ejemplo.co,3096571885,Cumpleaños en año bisiesto
+0052,	Bárbara,Rincón,Calle 119 # 44-30,"Ibagué, Tolima",974185," 3,882.25 ",2024-06-24,TRUE,sin_correo,3619965971,Pregunta: ¿incluye IVA?
+0053,Andrés,Caicedo,Calle 73 # 59-05,"Barranquilla, Atlántico",447123,	3421.50,2023-07-23,False,andrés.caicedo@ejemplo.co,3344444198,Atención rápida ¡gracias!
+0054,Íñigo,	Chávez,Avenida 117 # 51-13,"Manizales, Caldas",540291,"1.007,50",2023-08-13,1,inigo.chavez@ejemplo.co,3789941834,"Comentario con coma, punto y coma; y comillas ""VIP"""
+0055,Ál varo,Núñez,"Calle 3 # 51-35, Apto 136","Cúcuta, Norte de Santander",937490,"6956,00",2023-04-01,0,álvaro.núñez@ejemplo.co,3737990816,Ubicación: zona rural / vía secundaria
+0056,Valentina,Niño,Carrera 21 # 15-28,"Quibdó, Chocó",559483,"3,131.75	",03/06/2025,Sí,valentina.niño@ejemplo.co,3213575408,
+0057,Germán,Márquez,	 Calle 25 # 23-03  ,"Sincelejo, Sucre",309188,6129.15,2025-01-07,No,germán.márquez@ejemplo.co,3269893889,Cliente nuevo
+0058,Germán,Álvarez,Transversal 72 # 41-43,"Pereira,	Risaralda",093615,"USD 6,411.00",2024-04-14,SI,germán.álvarez@ejemplo.co,3186406756,Revisión pendiente
+0059,Germán,Niño,Avenida 31 # 13-44,"Villavicencio, Meta",346180,"2939,25",2023-01-09,no,germán.niño@ejemplo.co,3263004436,Prefiere atención tel efónica
+0060,Sofía,Pérez,Diagonal 18 # 84-14,"San Andrés, San Andrés y Providencia",943935,"5,761.50	",2025-12-14,,sofía.pérez@ejemplo.co,+57 372 577 2275,Pago al día
+0061,Valentina,Muñoz,Diagonal 76 # 53-30,"Villavicencio, Meta",643033,2081.99,2023-06-24,False,valentina.muñoz@ejemplo.co,3776991553,Dirección por verificar
+0062,Zoé,Caicedo,Avenida 100 # 64-79,"Barranquilla, Atlántico",062673,-6648.50,2022-05-25,1,zoé.caicedo@ejemplo.co,3178617659,Cumpleaños en año bisiesto
+0063,José,Bermúdez,Calle 76 # 69-65,"Quibdó, Chocó",075585,"1908,25",,0,jose.bermudez@ejemplo.co,3550209946,Pregunta:	¿incluye IVA?
+0064,	Íñigo,Castañeda,Avenida 24 # 5-84,"Pasto, Nariño",783082,"8,497.15",2026-12-04,Sí,íñigo.castañeda@ejemplo.co,3682955480,Atención rápida ¡gracias!
+0065,Sofía,Caicedo,Calle 62 # 47-43,"Pasto,  Nariño",762760, 4297.15 ,2023-05-21,No,sofía.caicedo@ejemplo.co,3168891240,"Comentario con coma, punto y coma; y comillas ""VIP"""
+0066,José	,Gutiérrez,"Carrera 11 # 4-65, Apto 185","Bogotá, Cundinamarca",435914,"6.105,25",2023-05-19,SI,,3552189211,Ubicación: zona rural / vía secundaria
+0067,Yuliana	,Suár﻿ez,Carrera 6 # 52-29,"Neiva, Huila",211296,"6024,50",2026-04-06,no,yuliana.suárez@ejemplo.co,3682974929,Sin novedades
+0068,	Ana María,López,Diagonal 98 # 14-49,"Pereira, Risaralda",004557,,31/02/2025,TRUE,ana.maría.lópez@ejemplo.co,3322077491,Cliente nuevo
+0069,Juan José,López,Avenida 115 # 28-06,"Pereira, Risaralda",805235,N/D,2024-07-13,False,juan.josé.lópez@ejemplo.co,3600942990,Revisión pendiente
+0070,José,Gómez,Transversal 24 # 81-06,"Manizales, Caldas",363458," 	8.068,99",11/09/2025,1,germán.chávez@ejemplo.co,+57 360 303 4895,
+0071,	Édgar,Núñez,Avenida 8 # 8-06,"Tunja, Bo yacá",695625,"2160,25",2026-08-15,0,édgar.núñez@ejemplo.co,3778220916,Pago al día
+0072,Édgar,Rincón,Avenida 87 # 29-92,"Ibagué, Tolima",639827,"1,767.50",2024-09-21,Sí,edgar.rincon@ejemplo.co,3276581477,	Dirección por verificar
+0073,Úrsula,	Vélez,Calle 26 # 50-41,"Cali, Valle del Cauca",241244,2365.75,2023-04-20,No,úrsula.vélez@ejemplo.co,3173994216,Cumpleaños en año bisiesto
+0074,Luz Dary,Quiñones	,Carrera 1 # 21-26,"Sincelejo, Sucre",914741,"5.845,75",2025-12-12,SI,luz.dary.quiñones@ejemplo.co,3820284080,Pregunta: ¿incluye IVA?
+0075,Óscar,Hernández,Calle 94 # 44-98,"Mosquera, Cundinamarca",181249,"3883,00",2022-04-18,no,óscar.hernández@ejemplo.co,3763538303,  Atención rápida ¡gracias!  
+0076,Édgar,Fernández,  Carrera 48 # 85-37  ,"Cúcuta, No rte de Santander",799922,"4,785.99",2023-07-18,TRUE,édgar.fernández@ejemplo.co,3297389622,"Comentario con coma, punto y coma; y comillas ""VIP"""
+0077,Úrsula,Díaz,"Diagonal 15 # 3-90, Apto 988","Tunja, Boyacá",443486,1922.25,11/07/2025,False,úrsula.díaz@ejemplo.co,3579089903,Ubicación: zona rural / vía secundaria
+0078,Óscar,Fernández,Diagonal 19 # 94-23,"Bogotá, Cundinamarca",316114," 3.854,25 ",2023-09-24,1,sin_correo,3738010800,Sin novedades
+0079,Óscar,Álvarez,Ca​lle 104 # 7-54,"Quibdó, Chocó",800477,"2008,00",2022-09-06,0,óscar.álvarez@ejemplo.co,3015643607,Cliente nuevo
+0080,Nicolás,Ríos,Transversal 107 # 59-89,"Bogotá, Cundinamarca",52374 3,"4,050.50",2024-05-27,,nicolás.ríos@ejemplo.co,+57 387 506 9308,Revisión pendiente
+0081,Dámaris,Márquez,Diagonal 89 # 76-49,"Pereira, Risaralda",783250,5472.75,2023-09-18,No,damaris.marquez@ejemplo.co,3804921293,Prefiere	a⁠tención telefónica
+0082,Yuliana,Bermúdez,Diagonal 90 # 29-91,"Medellín, Antioquia",84228﻿7,"4.619,75",2025-06-17,SI,yuliana.bermúdez@ejemplo.co,3299021148,Pago al día
+0083,Luz Dary,Niño,Carr era 37 # 89-41,"Sincelejo, Sucre",260147,"2422,25",2023-01-19,no,luz.dary.niño@ejemplo.co,3765750471,Dirección por verificar
+0084,Yuliana,Ríos,Avenida 60 # 69-39,"Medellín, Antioquia",299711,"4,989.75",,TRUE,yuliana.ríos@ejemplo.co,3980843255,
+0085,Valentina,Hernández,Carrera 111 # 92-62,"Barranquilla, Atlántico",020217, ,2024-03-11,False,valentina.hernández@ejemplo.co,3504805014,Pregunta: ¿incluye IVA?
+0086,Re﻿né,Gómez,Diagonal 93 # 65-57,"Medellín, Antioquia",546641,"1.437,15	",2024-07-19,1,rené.gómez@ejemplo.co,3850097238,Atención rápida ¡gracias!
+0087,Sofía	,Peña,Calle 26 # 21-81,"Ibagué, Tolima",439823,"USD 2,815.00",2026-01-21,0,sofía.peña@ejemplo.co,3368123316,"Comentario con coma, punto y coma; y comillas ""VIP"""
+0088,Óscar,Núñez,"Carrera 1 # 52-21, Apto 1394","Armenia, Quindío",023085,"1,622.00",2026-06-14,Sí,óscar.núñez@ejemplo.co,3200520406,Ubicación: zona rural / vía secundaria
+0089,Noé,Castañeda,Avenida 35 # 56-03,"Armenia, Quindío",895344,6507.99,2025-10-18,No,noé.castañeda@ejemplo.co,3001700245,Sin novedades
+0090,Bárbara,Rincón,Tra​nsversal 73 # 72-05,"Neiva, Huila",059563,"3.528,75",2023-12-12,SI,barbara.rincon@ejemplo.co,+57 302 454 0657,Cliente nuevo
+0091,Bárbara,Fernández,Calle 123 # 6-58,"Montería, Córdoba",068233," 4198,00 ",12/02/2025,no,bárbara.fernández@ejemplo.co,3414339370,Revisión pendiente	
+0092,Jos​é,García,Transversal 65 # 49-10,"Armenia, Quindío",879872,N/D,2024-07-14,TRUE,josé.garcía@ejemplo.co,3593994256,Prefiere atención telefónica
+0093,Dám aris,Ríos,Diagonal 38 # 61-96,"Tunja, Boyacá",219251,-3739.15,2023-11-18,False,dámaris.ríos@ejemplo.co,3795235524,Pago al día
+0094,Nicolás,Caicedo,Carrera	89 # 48-71,"Pereira, Risaralda",005126,"6.787,25",2022-08-18,1,nicolás.caicedo@ejemplo.co,3188353815,Dirección por verificar
+0095,Bárbara,Díaz,  Transversal 83 # 19-61  ,"Quibdó, Chocó",210348,"8163,00",2024-06-16,0,bárbara.díaz@ejemplo.co,3589547187,	Cumpleaños en año bisiesto
+0096,Julián,Gutiérrez,Carrera 125 # 31-75,"Funza, Cundinamarca",916789,"5,226.15",2022-07-03,Sí,julián.gutiérrez@ejemplo.co,3350992070,Pregunta: ¿inc luye IVA?
+0097,Luz Dary,Rincón,Transversal 7 # 51-56,"Cartagena, Bolívar",897067,1994.75	,2024-02-12,No,luz.dary.rincón@ejemplo.co,3359282829,Atención rápida ¡gracias!
+0098,Dámaris,Ospina,Carrera 17 # 16-06,"Villavicencio, Meta	",443799,"7.085,99",12/02/2025,SI,dámaris.ospina@ejemplo.co,3015062052,
+0099,Yuliana,Niño,"Transversal 68 # 62-08, Apto 578","Villavicencio, Meta",421920,"8436,75",2025-09-10,no,,3585008834,Ubicación: zona rural / vía secundaria
+0100,Camilo,Ríos,Calle 116 # 28-47,"Cúcuta, Norte de Santander",310241,"3,714.25",2023-11-19,,camilo.ríos@ejemplo.co,+57 357 020 0372,  Sin novedades  
